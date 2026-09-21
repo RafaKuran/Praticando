@@ -16,7 +16,7 @@ def centroide(nome):
       print(arquivo.name, "-vazio!!!")
     else:
       print("Ponto calculado: (", somaX/qtdPontos, ",", somaY/qtdPontos, ")." )
-     return None
+    return None
   
 #Programa Principal
 centroide("pontos.txt")
