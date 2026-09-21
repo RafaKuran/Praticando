@@ -32,10 +32,4 @@ dado = int(input("Digite um valor a ser procurado: "))
 onde = buscaElemento(numeros, dado)
 extremos = maiorMenor(numeros)
 
-
-
-
-
-
-
 print(onde)
